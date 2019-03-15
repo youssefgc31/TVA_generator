@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<declarationReleveDeduction>
+    <identifiantFiscal>1</identifiantFiscal>
+    <annee>2103</annee>
+    <periode>1</periode>
+    <regime>12</regime>
+    <releveDeductions>
+        <rd>
+            <ord>3</ord>
+            <num>12</num>
+            <des>des</des>
+            <mht>12.0</mht>
+            <tva>20.0</tva>
+            <ttc>123.0</ttc>
+            <reff>
+                <iff>123</iff>
+                <nom>ONE</nom>
+                <ice>13</ice>
+            </reff>
+            <tx>12.0</tx>
+            <mp>
+                <id>13</id>
+            </mp>
+            <date>2018-06-02T00:00:00Z</date>
+        </rd>
+        <rd>
+            <ord>3</ord>
+            <num>12</num>
+            <des>des</des>
+            <mht>12.0</mht>
+            <tva>20.0</tva>
+            <ttc>123.0</ttc>
+            <reff>
+                <iff>123</iff>
+                <nom>ONE</nom>
+                <ice>13</ice>
+            </reff>
+            <tx>12.0</tx>
+            <mp>
+                <id>13</id>
+            </mp>
+            <date>2018-06-02T00:00:00Z</date>
+        </rd>
+    </releveDeductions>
+</declarationReleveDeduction>
